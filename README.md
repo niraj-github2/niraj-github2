@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @niraj-github2
-- 👀 I’m interested in code
-- 🌱 I’m currently learning high shool
+- 👀 I’m interested in code and shool
+- 🤘🏻i currently studying in college
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
